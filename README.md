@@ -40,10 +40,10 @@ As a freelance web developer, I want to generate a simple logo for my projects -
 ## Mock-Up
 
 The following image shows a mock-up of the generated SVG given the following input entered by the user: 
-- `SVG` for the text, 
-- `white` for the text color, 
-- `circle` from the list of shapes,
-- `green` for the shape color
+- `MON` for the text, 
+- `black` for the text color, 
+- `Hexagon` from the list of shapes,
+- `light pink` for the shape color
 
 Note that this is just an image of the output SVG and not the SVG file itself:
 
@@ -53,7 +53,6 @@ Note that this is just an image of the output SVG and not the SVG file itself:
 
 ## The Deployment:
 
-[The Repo:](https://github.com/NovaLanceBrittany/HW-10-SVG-Logo-Maker) Github
+Github Repository [Click Here.](https://github.com/NovaLanceBrittany/HW-10-SVG-Logo-Maker) 
 
-[The Video Demonstration:](https://docs.google.com/document/d/17PfuWf85-HweAjEyqr-i_91z3q5OKeJ-1kr_-t8-U-I/edit?usp=sharing) Google Docs 
-
+The Video Demonstration: [Click Here.](https://docs.google.com/document/d/17PfuWf85-HweAjEyqr-i_91z3q5OKeJ-1kr_-t8-U-I/edit?usp=sharing) 
